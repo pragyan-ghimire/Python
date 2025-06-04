@@ -46,5 +46,15 @@ print("orange" in fruits) # returns boolean
 fruits.add("pineapple")
 fruits.remove("orange")
 fruits.pop() # removes first element (but it will be random)
-fruits.clear()
+# fruits.clear()
 print(fruits)
+
+#tuples(dir, help, len)
+fruits = ("apple","apple", "orange", "guava")
+print(fruits.index("apple"))
+print(fruits.count("apple"))
+print(fruits)
+for fruit in fruits:
+    print(fruit)
+
+# fruits[0] = "banana" # shows error
