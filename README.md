@@ -30,3 +30,11 @@ Shopping Cart Program
                 The collection can be a list, set, tuple or mix.
 Quiz game
 dictionary: stores key:value pair
+                get(), update(), pop(), popItem(), keys(), values(), items()
+
+## Day5
+Concession program: shows menu of a restaurant
+Random Number generator: importing random module
+                        random.randint(), random.choice(), random.random(), random.shuffle()
+Number guessing game:
+Dice roller game: (learned about ascii arts)
