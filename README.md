@@ -1,40 +1,112 @@
-# Python
-learning python
+# Learning Python 🐍
 
-## Day1
-Variable: string, integer, float, boolean
-Multiple Assignments: to assign multiple variables at once
-String methods: 
-        len(), find(), replace(), capitalize(), upper(), lower(), isdigit(), isalpha(), count()
-Type Casting: type(variable)
-UserInput: input(".......)
-Math Functions: 
-        round(), math.ceil(), math.floor(), abs(), math.sqrt(), max(), min()
-String Slicing: Two methods:
-            indexing operator, slice
-If Statements: for decision making
+## 📅 Day 1: Basics
 
-## Day2
-Loops: to repeat a block of code for certain number of times or while a condition is satisfied.
-    for loop and while loop
-Logical Operators: for condition checking, (and, or, not)
+### 🗃️ Variables
+- **Types:** `string`, `integer`, `float`, `boolean`
 
-## Day3
-Conditional Expression: X if condition else Y
-Format Specifier: to format a line
-Collection: list, set, tuple
-Shopping Cart Program
+### 🖊️ Multiple Assignments
+- Assign multiple variables at once.
 
-## Day4
-2D collections: In form of two dimensional grid.
-                The collection can be a list, set, tuple or mix.
-Quiz game
-dictionary: stores key:value pair
-                get(), update(), pop(), popItem(), keys(), values(), items()
+### 🔤 String Methods
+- `len()`, `find()`, `replace()`, `capitalize()`, `upper()`, `lower()`, `isdigit()`, `isalpha()`, `count()`
 
-## Day5
-Concession program: shows menu of a restaurant
-Random Number generator: importing random module
-                        random.randint(), random.choice(), random.random(), random.shuffle()
-Number guessing game:
-Dice roller game: (learned about ascii arts)
+### 🔄 Type Casting
+- `type(variable)`
+
+### ⌨️ User Input
+- `input("...")`
+
+### ➕ Math Functions
+- `round()`, `math.ceil()`, `math.floor()`, `abs()`, `math.sqrt()`, `max()`, `min()`
+
+### ✂️ String Slicing
+- Two methods:
+  - **Indexing operator**
+  - **Slice**
+
+### ⚖️ If Statements
+- For decision making.
+
+---
+
+## 📅 Day 2: Loops & Logic
+
+### 🔁 Loops
+- Repeat a block of code:
+  - `for` loop
+  - `while` loop
+
+### ⚙️ Logical Operators
+- For condition checking:
+  - `and`, `or`, `not`
+
+---
+
+## 📅 Day 3: Conditions & Collections
+
+### 🗂️ Conditional Expression
+- Syntax: `X if condition else Y`
+
+### ✏️ Format Specifier
+- To format a line.
+
+### 📦 Collections
+- `list`, `set`, `tuple`
+
+### 🛒 Project: Shopping Cart Program
+
+---
+
+## 📅 Day 4: 2D Collections & Dictionaries
+
+### 🗺️ 2D Collections
+- In form of a two-dimensional grid.
+- The collection can be a `list`, `set`, `tuple`, or mix.
+
+### ❓ Project: Quiz Game
+
+### 📖 Dictionary
+- Stores `key:value` pairs.
+- Common methods:
+  - `get()`, `update()`, `pop()`, `popitem()`, `keys()`, `values()`, `items()`
+
+---
+
+## 📅 Day 5: Fun with Randomness
+
+### 🍴 Project: Concession Program
+- Shows menu of a restaurant.
+
+### 🎲 Random Number Generator
+- Importing `random` module.
+  - `random.randint()`
+  - `random.choice()`
+  - `random.random()`
+  - `random.shuffle()`
+
+### 🎯 Project: Number Guessing Game
+
+### 🎲 Project: Dice Roller Game
+- Learned about **ASCII arts**.
+
+---
+
+## 📅 Day 6: Functions & Arguments
+
+### 🧩 Functions
+- Block of reusable code.
+
+### ⚙️ Default Arguments
+- Default value should be assigned **from right to left**.
+
+### 🗝️ Keyword Arguments
+- Position of the argument does not matter
+
+### 👓 Arbitary Arguments
+- *args = allows you to pass multiple non-key arguments (stores in tuple)
+- **kwargs = allows you to pass multiple keyword-arguments (stores in dictionary)
+
+---
+
+✨ **Keep learning!** ✨
