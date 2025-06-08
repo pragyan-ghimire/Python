@@ -109,4 +109,18 @@
 
 ---
 
+## Day 7
+
+### 🔁 Iterables
+- An object/collection that can return its elements one at a time allowing it to be iterable over in a loop
+
+### 🛒 Membership Operators
+-  Used to test whether a value or variable is found in a sequence (string, list, tuple, set, or dict)
+
+### 🗜️ List Comprehension
+- A concise way to create lists in Python compact and easier to read than traditional loops
+- Syntax: [expression for value in iterable if condition]
+
+---
+
 ✨ **Keep learning!** ✨
