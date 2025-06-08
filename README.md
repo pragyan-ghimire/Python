@@ -121,6 +121,20 @@
 - A concise way to create lists in Python compact and easier to read than traditional loops
 - Syntax: [expression for value in iterable if condition]
 
+### 🤲 Match Case Statement
+- An alternative to using many 'elif' statements
+
+### 🎒 Module in Python
+-  A file containing code you want to include in your program use 'import' to include a module(built-in or your own)
+
+### 👀 Variable Scope Resolution
+- Scope where a variable is visible and accessible
+- Priority: (LEGB) Local > Enclosed > Global > Built-in
+
+### 🔗 if __name__ == '__main__':
+- The if __name__ == '__main__': block ensures main() only runs if you run this file directly.
+- It allows the file to be used both as a script and as an importable module without accidentally running code when imported.
+
 ---
 
 ✨ **Keep learning!** ✨
