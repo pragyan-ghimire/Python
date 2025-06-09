@@ -137,4 +137,12 @@
 
 ---
 
+## Day 8
+
+### 💳 Banking Program
+- A program showcasing basic features available while banking. You can login, create account, check balance, deposit and withdraw.
+- A simple guideline is provide so users can navigate with ease.
+- You can have multiple users.
+- The data is temporary stored using dictionary. Username acts like foreign key(for authentication and balance).
+
 ✨ **Keep learning!** ✨
