@@ -44,18 +44,10 @@ def login():
         print("User not available.")
         exit_program()
     
-
-def main():
-    global logged_in
-    global logged_in_user
-
-    print("-" * 20)
-    print(program_name)
-    print("-" * 20)
-    print()
-
+def home():
     print("Login (Enter L): ")
     print("Create account (Enter A): ")
+    print("Enter any key to exit: ")
     entry_choice = input("Enter your choice: ").upper()
 
     if entry_choice == "L":
@@ -68,6 +60,17 @@ def main():
         login()
     else:
         exit_program()
+
+def main():
+    global logged_in
+    global logged_in_user
+
+    print("-" * 20)
+    print(program_name)
+    print("-" * 20)
+    print()
+
+    home()
 
     print("-" * 20)
     print("Rules:")
@@ -100,6 +103,7 @@ def main():
 
             case "Q":
                 logged_in = False
+                home()
 
             case _:
                 print("Invalid input")
