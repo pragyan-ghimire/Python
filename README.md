@@ -145,4 +145,17 @@
 - You can have multiple users.
 - The data is temporary stored using dictionary. Username acts like foreign key(for authentication and balance).
 
+---
+
+# Day 9
+
+### 🚃 Basic OOP
+- Class: Collection of object
+- Object: Entity having attribute and methods
+
+### 👨‍🏫 Class Variable
+- Class variable is shared among all objects(instances of a class)
+
+---
+
 ✨ **Keep learning!** ✨
