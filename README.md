@@ -164,5 +164,15 @@
 - Allows a class to inherit attributes and methods from another class
 - Helps with code reusability and extensibility
 
+### Multiple and Multilevel Inheritance 
+- Multiple: A class can inherit from more than one parent class
+- Multilevel: A class inherits form a parent which inherits from another parent
+
+### super()
+- It is function used in a child class to call methods from a parent class (super class).
+- It allows you to extend the functionality of the inherited methods.
+
+
+
 
 ✨ **Keep learning!** ✨
