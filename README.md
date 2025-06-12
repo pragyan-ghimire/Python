@@ -147,7 +147,7 @@
 
 ---
 
-# Day 9
+## Day 9
 
 ### 🚃 Basic OOP
 - Class: Collection of object
@@ -157,5 +157,12 @@
 - Class variable is shared among all objects(instances of a class)
 
 ---
+
+## Day 10
+
+### 👪 Inheritance
+- Allows a class to inherit attributes and methods from another class
+- Helps with code reusability and extensibility
+
 
 ✨ **Keep learning!** ✨
