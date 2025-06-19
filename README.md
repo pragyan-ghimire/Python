@@ -172,6 +172,27 @@
 - It is function used in a child class to call methods from a parent class (super class).
 - It allows you to extend the functionality of the inherited methods.
 
+---
+
+## Day 11
+Started learning tkinter for a project.
+
+### Tk Basics
+- How to open a window?
+- Set a title, dimension and background of window.
+
+### Tk Labels
+- Label is a widget that can holds text and/or an image within a window.
+- Different properties of label was explored.
+
+### Tk Buttons
+- Button is a widget that does something when clicked.
+- Different properties of button was explored.
+
+### Tk Entry Widget
+- Entry widget is a textbox that accepts a sigle line of user input.
+- How to manipulate user input was learned.
+- Basic properties were explored.
 
 
 
