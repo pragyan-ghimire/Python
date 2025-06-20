@@ -194,6 +194,56 @@ Started learning tkinter for a project.
 - How to manipulate user input was learned.
 - Basic properties were explored.
 
+---
+
+## Day 12
+
+### Checkbutton (Checkbox)
+- Used for multiple selection options.
+- Example: Enable/disable multiple features.
+
+### Radiobutton (Radio)
+- Used for single selection from a group.
+- Example: Select gender or mode.
+
+### Scale
+- Lets user select a value from a range.
+- Example: Volume or brightness control.
+
+### Listbox
+- Displays a list of selectable items.
+- Supports single or multiple selection.
+
+### Messagebox
+- Shows pop-up dialogs like:
+  - `showinfo()`
+  - `showwarning()`
+  - `showerror()`
+
+### Colorchooser
+- Opens a color selection dialog.
+- Returns RGB and HEX values.
+
+### Textarea (`Text` widget)
+- Multi-line text field.
+- Used for notes, code, or longer input.
+
+### Menubar
+- Adds a dropdown menu to your app.
+- Common menus: File, Edit, Help.
+
+## File Dialogs
+- Open File
+  - Use `filedialog.askopenfilename()` to open and read files.
+
+- Save File
+  - Use `filedialog.asksaveasfilename()` to write and save files.
+
+## Frames
+- Logical containers for grouping widgets.
+- Helps structure layout better.
+
+
 
 
 ✨ **Keep learning!** ✨
